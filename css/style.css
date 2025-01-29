@@ -79,6 +79,7 @@ body {
     position: relative;
     padding-left: 36px;
     padding-bottom: 14px;
+    width: fit-content;
 }
 
 .hero__link::before {
